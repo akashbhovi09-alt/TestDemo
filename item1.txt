@@ -1,4 +1,10 @@
 this is item 1
 first change
 
+<<<<<<< HEAD
 add special button 1
+=======
+add button 1
+
+add button 2
+>>>>>>> bugfix
